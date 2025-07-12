@@ -2,5 +2,5 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "description": "Simulated USDT token on Solana devnet for testing purposes only.",
-  "image": "https://raw.githubusercontent.com/zgdx070/token-metadata/main/usdt.png"
+  "image": "https://raw.githubusercontent.com/zgdx070/token-metadata/main/usdt.jpg"
 }
